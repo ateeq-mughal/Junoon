@@ -66,6 +66,7 @@ Designed with a **cloud-native architecture** and built for **real-world usage**
 
 
 🌐 Next.js Admin Dashboard
+
 └──> Consumes the same REST APIs
 
 
