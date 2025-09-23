@@ -103,7 +103,7 @@ It’s more than just an LMS—it’s a platform built with **students’ experi
 ## 📌 Roadmap
 
 - [ ] Live video classes with WebRTC  
-- [ ] AI-driven exam recommendations  
+- [ ] AI-driven learning exam preparations  
 - [ ] Advanced analytics for instructors  
 
 ---
