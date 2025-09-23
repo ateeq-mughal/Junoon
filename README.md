@@ -47,14 +47,23 @@ Designed with a **cloud-native architecture** and built for **real-world usage**
 ## 🏗️ Architecture Overview
 
 📱 Flutter Apps (Android/iOS)
+
 └──> Junoon REST API (Django DRF)
+
 ├── Contents (Notes, Videos)
+
 ├── Exams (Track & University)
+
 ├── Tracks (Enrollment, Progress)
+
 ├── Notifications
+
 └── Chat (Django Channels)
+
 └──> AWS S3 + CloudFront (Media delivery)
+
 └──> PostgreSQL (RDS) + PgBouncer (Connection pooling)
+
 
 🌐 Next.js Admin Dashboard
 └──> Consumes the same REST APIs
