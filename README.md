@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/ateeq-mughal/junoon/main/junoon-banner.png" alt="Junoon LMS Banner" width="100%">
 </p>
 
-# 🌟 Junoon – A Modern Learning Management System
+# 🌟 [Junoon](https://www.junoon.com.pk/)  – A Modern Learning Management System
 
-**Junoon** is a scalable **Learning Management System (LMS)** that I engineered from the ground up.  
+**[Junoon](https://www.junoon.com.pk/)** is a scalable **Learning Management System (LMS)** that I engineered from the ground up.  
 It powers **Flutter-based Android & iOS apps** and a **Next.js admin dashboard**, providing a seamless experience for students, instructors, and admins.  
 
 Designed with a **cloud-native architecture** and built for **real-world usage**, Junoon combines content delivery, assessments, real-time communication, and scalable infrastructure.  
@@ -48,7 +48,7 @@ Designed with a **cloud-native architecture** and built for **real-world usage**
 
 📱 Flutter Apps (Android/iOS)
 
-└──> Junoon REST API (Django DRF)
+└──> [Junoon](https://www.junoon.com.pk/) REST API (Django DRF)
 
 ├── Contents (Notes, Videos)
 
@@ -74,22 +74,22 @@ Designed with a **cloud-native architecture** and built for **real-world usage**
 
 ## 🛠️ Tech Highlights
 
-- **Backend**: Django REST Framework (Cookiecutter DRF)  
+- **Backend**: Django REST Framework
 - **Mobile**: Flutter (Android & iOS)  
-- **Admin Dashboard**: Next.js + Tailwind CSS  
+- **Admin Dashboard**: Next.js  
 - **Database**: PostgreSQL (Amazon RDS)  
 - **Deployment**: Docker + AWS ECS (Fargate)  
 - **Storage & Delivery**: AWS S3 + CloudFront  
 - **Secrets Management**: AWS Secrets Manager  
-- **Scalability**: PgBouncer for DB connection pooling  
+- **Scalability**: AWS Proxy for DB connection pooling  
 - **Real-time**: Django Channels + Redis
 - **Background Tasks**: Celery
 
 ---
 
-## 🚀 Why I Built Junoon
+## 🚀 What [Junoon](https://www.junoon.com.pk/) Showcases?
 
-Junoon represents my passion for **scalable backend engineering** and **cloud-native systems**.  
+[Junoon](https://www.junoon.com.pk/) represents my passion for **scalable backend engineering** and **cloud-native systems**.  
 The project challenged me to combine:  
 - 🎯 **Backend APIs** for mobile and web clients  
 - 📡 **Real-time chat and notifications**  
@@ -121,4 +121,4 @@ Hi, I’m **Ateeq Ur Rehman** 👋
 
 ---
 
-⚡ **Junoon is not just a project—it’s a demonstration of how I design and build real-world, production-ready systems.**  
+⚡ **[Junoon](https://www.junoon.com.pk/) is not just a project, it’s a demonstration of how I design and build real-world, production-ready systems.**  
