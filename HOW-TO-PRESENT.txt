@@ -1,0 +1,28 @@
+JUNOON STUDENT PITCH
+====================
+
+1. Unzip the folder anywhere. Keep index.html and the "assets" folder together.
+2. Open index.html in Google Chrome or Microsoft Edge. No internet is needed.
+3. Press F for full screen.
+
+Moving through the slides
+  Next ........ Right arrow, Space, Page Down, or click the right side
+  Back ........ Left arrow, Page Up, or click the left side
+  First/last .. Home / End
+  Clicker ..... Any presentation clicker that sends Page Up / Page Down works
+
+Speaker notes
+  N ........... Show or hide what to say, at the bottom of the screen
+  P ........... Open a presenter window with notes, the next slide and a timer.
+                Put the slides on the projector (full screen) and keep the
+                presenter window on your laptop. Its buttons and arrow keys
+                move the slides too.
+
+Things to know
+  Slide 7 plays a 10 second Ustaad video WITH SOUND. Connect the speakers.
+  If it starts muted, click "Play with sound".
+  Slide 8 types out an Ustaad answer by itself (about 20 seconds). Talk over it.
+  Slide 15 has QR codes for Android, iPhone and the website. Leave it up for a
+  minute so everyone can scan.
+
+The whole talk takes about 12 to 15 minutes.
